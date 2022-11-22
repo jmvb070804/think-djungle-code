@@ -1,0 +1,52 @@
+End User License Agreement
+
+Web License
+The following is a legal Agreement between a Licensee (You) and Fonderie Typographique Coppers & Brasses Inc. (Coppers and Brasses, the Licensor).
+
+By downloading, installing and or using the Font Software, You acknowledge that you have read, understood, and agree to be bound by the terms of this End User License Agreement (EULA or License). If you do not accept the terms of this License, you may not download, install and/or use the Font Software.
+
+What you are purchasing from Coppers and Brasses is a license to embed in a website or serve Font Software using the CSS @font-face rule. Once the full payment for the appropriate License is processed, Coppers and Brasses will issue You a non-exclusive, non-transferable License for the use of the Font Software. Your use must comply with the terms and conditions of this EULA.
+
+You are not purchasing the rights of the Font Software. Coppers and Brasses retains all rights to the Font Software, the trademarks, the copyrights and the designs embodied in the Font Software.
+
+All the domains and subdomains that serve the Font Software or in which the Font Software is embedded must belong to You, your organization or your household.
+
+The webfonts are provided in WOFF2, WOFF, EOT and TTF formats. Additional formats are available upon request, and may require the purchase of a different license.
+
+All Web Licensing is one-time, perpetual, and upgradable. If your current use of the Font Software exceeds the use allowed by your License, You must contact Coppers and Brasses for an upgrade.
+
+You may serve the Font Software up to the maximum number of monthly page views specified on your receipt, without exceeding this amount of monthly page views, across all the Licensee's domains.
+
+You may exceed your maximum number of page views for three consecutive months, but if the number of page views to your site increases for four or more consecutive months, you are required to contact Coppers and Brasses and upgrade your Web License.
+
+You may not distribute, sell, lend, sublicense, make available, lease and/or rent the Font Software to any third party (unless specifically permitted in this agreement).
+
+Downloading, installing and using the Font Software for use on a computer (desktop, laptop, etc.) in a context other than in a web browser is not permitted without the purchase of the appropriate Desktop License.
+
+You may not use the Font Software to make rasterized, pixel based images without the purchase of the appropriate Desktop License.
+
+You may not use the Font Software to automatically generate rasterized images, pixel based images, vector based images or pdf files without the appropriate License. Please contact us if you need a License upgrade.
+
+You may not embed the font files in e-books, mobile applications, electronic games, devices or other software without the appropriate App License. Please contact us if you need a License upgrade.
+
+You are not permitted to modify, change, alter, decompile, reverse engineer, disassemble or convert the Font Software in any way.
+
+You may not commission a third party to modify the font software without Coppers and Brasses’ written permission.
+
+You may not use the Font Software for Broadcast applications. Please get in touch with us if you need more information about a Broadcast License.
+
+If You are a design agency, advertising agency, consultancy agency, or are purchasing this License for use by or on behalf of such an entity, the ultimate End User must also purchase the appropriate License for the use of the Font Software. The License granted herein does not extend to uses by temporary employees, freelancers, or independent contractors using the Font Software in professional environments or for other professional uses. They must also purchase the appropriate License for the use of the Font Software.
+
+If you do experience any difficulties with our Font Software within 30 days after the purchase, we will work with you, within the limits of our ability, to resolve any technical issues related to it. If, after we have worked to resolve any technical issues, you are still not satisfied with our Font Software, we will be pleased to refund your money, which shall be the limit of our liability in this transaction. In no event shall any liability of Coppers and Brasses exceed the purchase price of the License for the Font Software or replacement of the Font Software itself.
+
+This License Agreement is effective upon full payment of the amount charged for the License. This License may be terminated without notice if You breach and/or fail to comply with any term or terms contained herein.
+
+Coppers and Brasses reserves the right to amend or modify this License Agreement at any time and without prior notification.
+
+This Agreement constitutes the entire understanding between Coppers and Brasses and the Licensee (You) and supersedes all previous agreements, promises, representations and negotiations between the parties.
+
+For any licensing situations not covered in this agreement or if you have any questions regarding this Agreement, please contact us.
+
+Thank you.
+
+Version 4.0 issued in June 2020
