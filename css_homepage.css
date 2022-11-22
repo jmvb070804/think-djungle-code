@@ -17,24 +17,7 @@ body{
 
 
 
-/*The "logo1" is the css style code for the logo in the upper-left corner.   */
 
-.logo1{
-	position:absolute;
-	z-index:999;
-	top: 0;
-	left: 0;
-	padding-left: 1%;
-	padding-top: 1%;
-	transform: scale(1);
-	transition: all .3s ease;
-	cursor: pointer;
-	mix-blend-mode:difference;
-}
-/*The ":hover" is used to make something when the mouse hovers on the thing that the hover is being aplied   */
-.logo1:hover{
- 	transform: scale(1.3)
-}
 
 
 
@@ -244,24 +227,6 @@ body{
 	overflow: hidden;
 }
 
-
-
-.logo1{
-	position:absolute;
-	z-index:999;
-	top: 0;
-	left: 0;
-	padding-left: 1%;
-	padding-top: 1%;
-	transform: scale(1);
-	transition: all .3s ease;
-	cursor: pointer;
-	mix-blend-mode:difference;
-}
-
-.logo1:hover{
- 	transform: scale(1.3)
-}
 
 
 .back{
