@@ -104,7 +104,48 @@ body{
 	position: absolute;
 }
 /* popup CSS code */
+.popScroll
+{
+position:fixed; z-index:10; top:0;
+display:    table;
+text-align: center;
+width: 100%;
+height: 100%;
+}
 
+
+.popup
+{
+z-index: 10;
+width:20%;
+height:60%;
+position:relative;
+margin-left: 40%;
+margin-top: 10%;
+display:block;
+text-align:center;
+-moz-background-clip: padding;
+-o-background-clip: padding;
+-webkit-background-clip: padding-box;
+background-clip: padding-box; /* prevents bg color from leaking outside the border */
+background-color: #fff; /* layer fill content */
+-moz-box-shadow: 0 0 10px rgba(0,0,0,.18); /* drop shadow */
+-webkit-box-shadow: 0 0 10px rgba(0,0,0,.18); /* drop shadow */
+-o-box-shadow: 0 0 10px rgba(0,0,0,.18); /* drop shadow */
+box-shadow: 0 0 10px rgba(0,0,0,.18); /* drop shadow */
+-webkit-transform-origin:top center;
+-moz-transform-origin:top center;
+-o-transform-origin:top center;
+transform-origin:top center;
+-webkit-animation: iconosani 1.2s forwards;
+animation: iconosani 1.2s forwards;
+-moz-animation: iconosani 1.2s forwards;
+-o-animation: iconosani 1.2s forwards;
+}
+
+.video{
+	margin-top:1%;
+}
 
 /* Mobile version */
 @media screen and (orientation: portrait) and (min-width: 100px){
