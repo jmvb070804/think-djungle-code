@@ -70,7 +70,7 @@ body{
 	position: absolute;
 	transform: scale(3.5);
 	margin-left: 19.5%;
-	margin-top: 22.5%;
+	margin-top: 18.5%;
 	z-index: 9
 }
 
@@ -80,7 +80,7 @@ body{
 	font-family: 'Ilisarniq-Black'; color: rgba(0,0,0,0.00);
 	-webkit-text-stroke: 1px #FFFFFF; /* width and color */
 	font-size: 80px;
-	margin-top:30%;
+	margin-top:25%;
 	margin-left:12%;
 	z-index: 10;
 	position: absolute;
@@ -99,9 +99,36 @@ body{
 	font-family: 'Ilisarniq-Black'; color: #FFFFFF;
 	font-size: 20px;
 	margin-left:12.5%;
-	margin-top: 40.5%;
+	margin-top: 36%;
 	z-index: 10;
 	position: absolute;
+}
+
+.bn542 {
+  outline: none;
+  text-decoration: none;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  height: 45px;
+  width: 190px;
+  opacity: 1;
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.0);
+  position: absolute;
+  margin-left: 12.1%;
+  margin-top: 38%;
+  transition: all .3s ease;
+  z-index: 9;
+  font-family: 'Ilisarniq-Light';
+
+}
+
+.bn542:hover {
+transform: scale(1.3);
 }
 
 
