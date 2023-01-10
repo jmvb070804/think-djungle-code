@@ -272,7 +272,7 @@ body{
 }
 
 
-
+/*The "background" is the css style code for the image in the background.  */
 .background{
 	width: 101%;
 	position: absolute;
@@ -285,7 +285,7 @@ body{
 
 
 
-
+/*The "blue-gradient-div" is the css style code for the fade to black effect in the down part of the background.  */
 .blue-gradient-div{
     background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%,#000000 61.38%);
     z-index: 7;
@@ -298,43 +298,70 @@ body{
 
 
 
-
+/*The "logobig" is the css style code for the big logo in the center of the page.  */
 .logobig{
 	position: absolute;
 	transform: scale(3.5);
 	margin-left: 19.5%;
-	margin-top: 22.5%;
+	margin-top: 18.5%;
 	z-index: 9
 }
 
 
-
+/*The "title" is the css style code for the title "The Unreal Company" in the center of the page.  */
 .title{
 	font-family: 'Ilisarniq-Black'; color: rgba(0,0,0,0.00);
 	-webkit-text-stroke: 1px #FFFFFF; /* width and color */
 	font-size: 80px;
-	margin-top:30%;
+	margin-top:25%;
 	margin-left:12%;
 	z-index: 10;
 	position: absolute;
 }
-
+/*The "title1" is the css style code for the title "The Unreal" in the center of the page. It only changes the text size  */
 .title1{
 	font-size: 83.3px;	
 }
-
+/*The "DJUNGLE" is the css style code for the title "Company" in the center of the page. It only changes the text color to make it all white  */
 .DJUNGLE{
 	color: #FFF;
 	-webkit-text-stroke: 0px #FFF;
 }
-
+/*The "slogan" is the css style code for the slogan "Art Direction, Content & Web Solutions" in the center of the page.  */
 .slogan{
 	font-family: 'Ilisarniq-Black'; color: #FFFFFF;
 	font-size: 20px;
 	margin-left:12.5%;
-	margin-top: 40.5%;
+	margin-top: 36%;
 	z-index: 10;
 	position: absolute;
+}
+
+.bn542 {
+  outline: none;
+  text-decoration: none;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  height: 45px;
+  width: 190px;
+  opacity: 1;
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.0);
+  position: absolute;
+  margin-left: 12.1%;
+  margin-top: 38%;
+  transition: all .3s ease;
+  z-index: 9;
+  font-family: 'Ilisarniq-Light';
+
+}
+
+.bn542:hover {
+transform: scale(1.3);
 }
 
 	
